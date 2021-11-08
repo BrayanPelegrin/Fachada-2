@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FachadaTarea2.0", "FachadaTarea2.0\FachadaTarea2.0.csproj", "{4F72DA2C-764A-4F73-8550-6294EAC60D40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F72DA2C-764A-4F73-8550-6294EAC60D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F72DA2C-764A-4F73-8550-6294EAC60D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F72DA2C-764A-4F73-8550-6294EAC60D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F72DA2C-764A-4F73-8550-6294EAC60D40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D540249-7662-4604-8B67-A628F2A74470}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\FachadaTarea2.0.exe.config
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\FachadaTarea2.0.exe
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\FachadaTarea2.0.pdb
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\obj\Debug\FachadaTarea2.0.csproj.AssemblyReference.cache
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\obj\Debug\FachadaTarea2.0.csproj.CoreCompileInputs.cache
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\obj\Debug\FachadaTarea2.0.exe
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\obj\Debug\FachadaTarea2.0.pdb
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\obj\Debug\FachadaTarea2.0.csproj.CopyComplete
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\SpreadsheetLight.dll
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\System.Drawing.Common.dll
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\System.IO.Packaging.dll
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\SpreadsheetLight.xml
+C:\Users\pelet\source\repos\FachadaTarea2.0\FachadaTarea2.0\bin\Debug\System.IO.Packaging.xml
